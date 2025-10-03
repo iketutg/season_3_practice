@@ -1,6 +1,6 @@
 void main() {
   //Set Kumpulan elemen yang unik (tidak ada duplikat).
-  var angka = {1, 2, 3, 3};
+  var angka = {1, 2, 3, 3, 1};
   print(angka);
 
   angka.add(4);

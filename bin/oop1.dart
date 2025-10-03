@@ -13,3 +13,9 @@ void main() {
   var avanza = Mobil('Toyota', 2020);
   avanza.info(); // Mobil: Toyota, Tahun: 2020
 }
+
+class Mahasiswa {
+  String nim;
+  String nama;
+  int nilai;
+}
